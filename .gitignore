@@ -1,0 +1,47 @@
+# Sensitive files - NEVER commit
+.env
+.env.*
+*.key
+*_key
+*_secret
+api_keys/
+secrets/
+credentials/
+
+# Session and cache files
+.cache/
+cache/
+sessions/
+*.session
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.tmp.*
+.DS_Store
+Thumbs.db
+
+ide/
+projects/
+shell-snapshots/
+statsig/
+todos/
+
+# What TO include (explicitly track):
+# - CLAUDE.md (global instructions)
+# - Custom agent configurations
+# - Non-sensitive settings files
+# - Project templates
+# - Custom tools/scripts
+
+# Force include important config files
+!CLAUDE.md
+!_
+!agents/
+!commands/
+!templates/
+!tools/
+!settings.json

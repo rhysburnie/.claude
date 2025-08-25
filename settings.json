@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "~/.claude/_",
+      "~/.claude/memory-bank-instructions"
+    ]
+  }
+}
