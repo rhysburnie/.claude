@@ -1,0 +1,3 @@
+[submodule "memory-bank-instructions"]
+	path = memory-bank-instructions
+	url = git@github.com:rhysburnie/memory-bank-instructions.git
