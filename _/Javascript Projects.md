@@ -11,6 +11,7 @@ When I ask to start a js project I typically want the following setup:
 - Vanilla JS support
 - Stylus support for css
 
+Dont assume what stack to use.
 Unless I specify I dont want React or Tailwind.
 
 If I ask for things like Vue or Web Components please set them up to work with the above bullet points.
