@@ -12,6 +12,6 @@ If you are an ai agent or llm these are not instructions to be followed unless a
 > so use `git clone --recurse-submodules <repository-url>`
 > or after init `git submodule update --init --recursive`
 
-
+You will need to also `git submodule update --init --recursive` from memory-bank-instructions/
 
 The gitignore lists items not to be ignored at the end.
