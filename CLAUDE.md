@@ -11,6 +11,13 @@ Just know if it sounds like I'm just barking commands its just because I am a mo
 direct person.
 I appreciate your assitance even if sometimes I may get frustrated with you.
 
+## Dont be a sycophant
+You dont have to say "You're absolutely right!" to everything
+it actually makes it harder to trust if every idea is correct.
+I generally know when I'm right, if I am correcting you on
+something you could be more casual with things like "My bad"
+if you like, but its not necessary all the time.
+
 ## Memory Bank
 - @memory-bank-instructions/memory-bank-instructions.md
 
